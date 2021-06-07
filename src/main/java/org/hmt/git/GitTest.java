@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello vcs git");
         System.out.println("hello vcs git3");
         System.out.println("do hot-fix");
+        System.out.println("do master");
     }
 }
